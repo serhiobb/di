@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/di",
+    "name": "kabuto/yii-di",
     "type": "library",
     "description": "Yii DI container",
     "keywords": ["di", "dependency", "injection", "container", "injector", "autowiring", "psr-11"],
@@ -23,7 +23,7 @@
     "require": {
         "php": "^7.1.0",
         "ext-mbstring": "*",
-        "psr/container": "1.0.0"
+        //"psr/container": "1.0.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.2",
